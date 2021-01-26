@@ -12,7 +12,7 @@ function handleKeyUp(event) {
 }
 
 function jump() {
-  const initialPos = 350;
+  const initialPos = 140;
 
   isJumping = true;
 
